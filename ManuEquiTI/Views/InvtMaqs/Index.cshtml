@@ -1,0 +1,47 @@
+﻿@model IEnumerable<ManuEquiTI.Models.InvtMaq>
+
+@{
+    ViewData["Title"] = "Inventário de Maquinas";
+}
+
+<h1>Inventário de Maquinas</h1>
+
+<p>
+    <a asp-action="Create">Criar um novo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Maquina)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CodMaq)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Observacoes)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Maquina)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CodMaq)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Observacoes)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.idMaq">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.idMaq">Detalhes</a> |
+                <a asp-action="Delete" asp-route-id="@item.idMaq">Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

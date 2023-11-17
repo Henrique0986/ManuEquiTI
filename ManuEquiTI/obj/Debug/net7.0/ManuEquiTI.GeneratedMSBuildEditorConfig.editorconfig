@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ManuEquiTI
+build_property.RootNamespace = ManuEquiTI
+build_property.ProjectDir = W:\Users\henrique.soliveira29\source\repos\ManuEquiTI\ManuEquiTI\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = W:\Users\henrique.soliveira29\source\repos\ManuEquiTI\ManuEquiTI
+build_property._RazorSourceGeneratorDebug = 
+
+[W:/Users/henrique.soliveira29/source/repos/ManuEquiTI/ManuEquiTI/Views/CadClientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/Users/henrique.soliveira29/source/repos/ManuEquiTI/ManuEquiTI/Views/CadClientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/Users/henrique.soliveira29/source/repos/ManuEquiTI/ManuEquiTI/Views/CadClientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/Users/henrique.soliveira29/source/repos/ManuEquiTI/ManuEquiTI/Views/CadClientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/Users/henrique.soliveira29/source/repos/ManuEquiTI/ManuEquiTI/Views/CadClientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkQ2xpZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/Users/henrique.soliveira29/source/repos/ManuEquiTI/ManuEquiTI/Views/CadProdutos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkUHJvZHV0b3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/Users/henrique.soliveira29/source/repos/ManuEquiTI/ManuEquiTI/Views/CadProdutos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkUHJvZHV0b3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/Users/henrique.soliveira29/source/repos/ManuEquiTI/ManuEquiTI/Views/CadProdutos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkUHJvZHV0b3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/Users/henrique.soliveira29/source/repos/ManuEquiTI/ManuEquiTI/Views/CadProdutos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkUHJvZHV0b3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/Users/henrique.soliveira29/source/repos/ManuEquiTI/ManuEquiTI/Views/CadProdutos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkUHJvZHV0b3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/Users/henrique.soliveira29/source/repos/ManuEquiTI/ManuEquiTI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/Users/henrique.soliveira29/source/repos/ManuEquiTI/ManuEquiTI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/Users/henrique.soliveira29/source/repos/ManuEquiTI/ManuEquiTI/Views/InvtMaqs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52dE1hcXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/Users/henrique.soliveira29/source/repos/ManuEquiTI/ManuEquiTI/Views/InvtMaqs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52dE1hcXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/Users/henrique.soliveira29/source/repos/ManuEquiTI/ManuEquiTI/Views/InvtMaqs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52dE1hcXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/Users/henrique.soliveira29/source/repos/ManuEquiTI/ManuEquiTI/Views/InvtMaqs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52dE1hcXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/Users/henrique.soliveira29/source/repos/ManuEquiTI/ManuEquiTI/Views/InvtMaqs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52dE1hcXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/Users/henrique.soliveira29/source/repos/ManuEquiTI/ManuEquiTI/Views/InvtSofts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52dFNvZnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/Users/henrique.soliveira29/source/repos/ManuEquiTI/ManuEquiTI/Views/InvtSofts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52dFNvZnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/Users/henrique.soliveira29/source/repos/ManuEquiTI/ManuEquiTI/Views/InvtSofts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52dFNvZnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/Users/henrique.soliveira29/source/repos/ManuEquiTI/ManuEquiTI/Views/InvtSofts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52dFNvZnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/Users/henrique.soliveira29/source/repos/ManuEquiTI/ManuEquiTI/Views/InvtSofts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52dFNvZnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/Users/henrique.soliveira29/source/repos/ManuEquiTI/ManuEquiTI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/Users/henrique.soliveira29/source/repos/ManuEquiTI/ManuEquiTI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/Users/henrique.soliveira29/source/repos/ManuEquiTI/ManuEquiTI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/Users/henrique.soliveira29/source/repos/ManuEquiTI/ManuEquiTI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/Users/henrique.soliveira29/source/repos/ManuEquiTI/ManuEquiTI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-y4y4qd06qc
